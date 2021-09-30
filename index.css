@@ -1,0 +1,104 @@
+body{
+   font-family: 'Open Sans', sans-serif;
+}
+input[type=submit]
+{
+  color: white;
+  background-color:#02be6e; 
+  border-radius: 20px;
+  height: 30px;
+  width: 113px;
+  border: none;
+  
+}
+input[type=button]
+{
+  color: white;
+  background-color:#02be6e ;
+  border-radius: 20px;
+  height: 40px;
+  width: 360px;
+  border: none;
+  font-size: medium;
+
+}
+.discovermore, .signUp {
+   align-items: center;
+   padding-left: 500px;
+}
+a{
+   text-decoration: none;
+   color: black;
+}
+.body{
+   background-image: url(https://cdn.pixabay.com/index/2021/09/27/07-45-57-413_1440x550.jpg);
+   height: 511px;
+}
+.header{
+   display: flex;
+   position:fixed;
+   padding: 10px;
+   height: 40px;
+   width: 100%;
+   background-color: white;
+}
+.HmodulesLeft{
+   display:flex;
+   padding: 10px 10px 10px 50px;
+}
+.HmodulesRight{
+   text-align: right;
+   display:flex;
+   padding: 10px 10px 10px 576px;
+}
+.box, .box1{
+   padding: 10px;
+}
+.b1{
+   color: white;
+   text-align: center;
+   padding: 100px 0px 0px 0px;
+}
+/* .pixabay{
+   height: 25px;
+   width: 84px;
+} */
+.s {
+ padding: 0px 0px 0px 200px;
+}
+.t1{
+   text-align: center;
+   font-size: large;
+   color: #515457;
+   padding: 10px;
+}
+.t2{
+   text-align: center;
+   font-size: medium;
+   color: #515457;
+   
+}
+
+.searchElement{
+   color: gainsboro;
+   text-align: center;
+   font-size: medium;
+}
+.searchElement2{
+   color: white;
+   text-align: center;
+   padding: 170px 0px 0px 0px;
+}
+.im1{
+   display: flex;
+   padding: 15px;
+}
+.im2{
+   display: flex;
+   padding: 15px;
+}
+.images{
+   display: flex;
+   padding: 10px;
+
+}
